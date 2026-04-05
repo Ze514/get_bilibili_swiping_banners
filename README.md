@@ -14,9 +14,7 @@
 
 ```json
 {
-    "part": "path1";
-    "all": "path2";
+    "part": "path1",
+    "all": "path2",
 }
 ```
-
-
